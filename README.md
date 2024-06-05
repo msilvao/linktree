@@ -1,7 +1,7 @@
 <h1 align="center"> Linktree </h1>
 
 <p align="center">
-Projeto promovido pela Rocketseat, por meio do curso exclusivo e gratuito, o discover, com intuito a ensinar tecnologias WEB.
+Projeto desenvolvido a fins de estudo.
 </p>
 
 <p align="center">
